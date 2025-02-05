@@ -1,5 +1,5 @@
 {
-    "name": "oneiroi {{name}}",
+    "name": "{{theme}} {{plt}}",
     "background": "{{bg}}",
     "foreground": "{{fg}}",
     "selectionBackground": "{{sel}}",
