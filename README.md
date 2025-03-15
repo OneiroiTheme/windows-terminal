@@ -3,9 +3,15 @@
 > A fantastic theme for `Windows Terminal`.  
 
 <p align="center">
-  <img src="./doc/oneiroi.png" alt="Oneiroi Theme" width="70%" />
+  <img src="https://raw.githubusercontent.com/OneiroiTheme/oneiroi-theme/main/assets/oneiroi.png" alt="Oneiroi Theme" width="40%" />
 </p>
-  
+
+<p align="center">
+  <a href="https://github.com/OneiroiTheme/windows-terminal/stargazers"><img src="https://img.shields.io/github/stars/OneiroiTheme/windows-terminal?style=flat-square&labelColor=343a41&color=ffacaa" alt='github stars'/></a>
+  <a href="https://github.com/OneiroiTheme/windows-terminal/issues"><img src="https://img.shields.io/github/issues/OneiroiTheme/windows-terminal?style=flat-square&labelColor=343a41&color=ffdfaa" alt='github issues'/></a>
+  <a href="https://github.com/OneiroiTheme/windows-terminal/contributors"><img src="https://img.shields.io/github/contributors/OneiroiTheme/windows-terminal?style=flat-square&labelColor=343a41&color=aaffdf" alt='github contributors'/></a>
+</p>
+
 ## Themes available
 
 - oneiroi dream
