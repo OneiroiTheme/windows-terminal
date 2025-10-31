@@ -1,4 +1,21 @@
 {
-    "input": "/.template/template.json",
-    "output": "/{{theme}}-{{plt}}.json"
+    "templates": {
+        "type": "mustache",
+        "input": "/.template/template.json",
+        "output": "/{{plt.theme}}-{{plt.plt}}.json"
+    },
+    "port": {
+        "title": "Windows Terminal",
+        "url": "https://github.com/microsoft/terminal",
+        "version": "0.0.2"
+    },
+    "author": {
+        "name": "Crystar Z",
+        "email": "crystar.z@outlook.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OneiroiTheme/windows-terminal.git"
+    },
+    "license": "MIT"
 }
